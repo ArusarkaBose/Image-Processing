@@ -1,0 +1,21 @@
+﻿  FrequencyFiltering.cpp
+C:\Users\arusa\source\repos\FrequencyFiltering\FrequencyFiltering.cpp(38,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\arusa\source\repos\FrequencyFiltering\FrequencyFiltering.cpp(351,37): warning C4244: 'argument': conversion from 'const _Ty' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty=uchar
+          ]
+C:\Users\arusa\source\repos\FrequencyFiltering\FrequencyFiltering.cpp(383,40): warning C4244: 'argument': conversion from 'const _Ty' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty=uchar
+          ]
+  FrequencyFiltering.vcxproj -> C:\Users\arusa\source\repos\FrequencyFiltering\x64\Debug\FrequencyFiltering.exe
